@@ -1,3 +1,1 @@
-# COMPLIANCE-QUALITY-ASSURANCE
-Exemplo de uso do Git - Primeira aula
-Exercício de uso do Github desktop
+# Guarde nesta pasta somente codigos de programas de computador - aa

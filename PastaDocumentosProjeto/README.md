@@ -1,0 +1,1 @@
+# Use esta area para guardar desenhos tecnicos de projeto (UML, DER, MER, Arquitetura, etc).
