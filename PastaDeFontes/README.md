@@ -1,1 +1,1 @@
-# Guarde nesta pasta somente codigos de programas de computador
+# Guarde nesta pasta somente codigos de programas de computador - não seja banana de colocar outro tipo de documento aqui!!!!!
